@@ -1,0 +1,52 @@
+.publi-section {
+  background: #0A6CB4;
+  padding: 60px 150px;
+  display:flex;
+}
+
+.publication-left p {
+  font-size: larger;
+  text-align: justify;
+  line-height: 1.5;
+  margin: 0 0 30px 40px;
+  color: white;
+}
+
+.publication-left .final-line {
+  display: block;
+  margin-top: 20px;
+}
+
+.publication-left h3 {
+  font-size: x-large;
+  text-align: justify;
+  line-height: 1.5;
+  margin: 0 0 14px 40px;
+  color: #000C7B;
+}
+
+.publication-right {
+  margin: auto;
+  display: grid;
+}
+
+.publication-right img {
+  width: 100%;
+  max-width: 250px;
+  border-radius: 8px;
+}
+
+.publication-right a {
+  font-size: 25px;
+  font-weight: 600;
+  color: #CFE2FC;
+  text-decoration: none;
+}
+
+.publication-right a:hover {
+  text-decoration: underline;
+}
+
+.publication-right p {
+  color: white;
+}
